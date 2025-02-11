@@ -8,7 +8,7 @@ public class Solution29 {
     // 단, 리턴하려는 배열이 빈 배열인 경우엔 배열에 -1을 채워 리턴하세요.
     // 예를들어 arr이 [4,3,2,1]인 경우는 [4,3,2]를 리턴 하고, [10]면 [-1]을 리턴 합니다.
 
-    public int[] solution(int[] arr) {
+   static public int[] solution(int[] arr) {
         int[] answer = {};
 
         // arr 길이가 1이면 무조건 [-1] 리턴

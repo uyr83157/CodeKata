@@ -2,7 +2,7 @@ package com.example.Solution;
 
 public class Solution27 {
 
-    public String solution(String phone_number) {
+   static public String solution(String phone_number) {
         // 기본 요구 양식
         String answer = "";
 
