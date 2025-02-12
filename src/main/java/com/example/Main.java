@@ -20,7 +20,12 @@ public class Main {
 //        System.out.println(Solution30.solution("123456"));
 //        System.out.println(Solution30.solution("123456789"));
 
-        System.out.println(Solution31.solution(5));
+//        System.out.println(Solution31.solution(5));
+
+        System.out.println(Solution34.solution("asdf"));
+
+
+
 
 
 
