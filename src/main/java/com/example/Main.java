@@ -22,7 +22,7 @@ public class Main {
 
 //        System.out.println(Solution31.solution(5));
 
-        System.out.println(Solution34.solution("asdf"));
+//        System.out.println(Solution34.solution("asdf"));
 
 
 
